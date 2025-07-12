@@ -5,7 +5,7 @@ I’m a Graduate Computer Science and Data Science student with a strong interes
 ### 📌 Featured Project
 **📚 Personal Book Tracker** (*in development*) 
 
-A Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts to enable sharing of insights.
+A Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend populated with popular books and review data, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts to enable sharing of insights.
 
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
