@@ -3,7 +3,7 @@
 I’m a Graduate Computer Science and Data Science student with a strong interest in data analysis and software development, including dashboards, visual storytelling, and intuitive applications and websites with a focus on user experience (UX). My interests extend to data engineering, particularly SQL, database optimisation, and automated data pipelines to support these tools.
 
 ### 📌 Featured Project
-**📚 Personal Book Tracker (in development)**  
+**📚 Personal Book Tracker** (*in development*) 
 A Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts to enable sharing of insights.
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
@@ -19,4 +19,4 @@ A Flask web app with an interactive dashboard that tracks and visualises my pers
 ### 📫 How to reach me  
 - 📧 Email: elisemwalsh@me.com  
 - 💼 LinkedIn: [linkedin.com/in/elise-walsh](https://www.linkedin.com/in/elise-walsh-0984932a/)
-- 🌐 Website (*work in progress*): [Elise Walsh](https://elisemwalsh.com)
+- 🌐 Personal Website (*in development*): [Elise Walsh](https://elisemwalsh.com)
