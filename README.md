@@ -1,12 +1,10 @@
-## Elise Walsh
+## 🎓 Elise Walsh 
 
-- 🎓 Final-year Computer Science & Data Science student
-- 🔍 Interested in data analysis and reporting; application and website development with clean, intuitive UX; and data engineering (SQL, database optimisation, and pipelines)
-- 📚 I enjoy turning messy data into clean reports and interactive tools
+I’m a final-year Computer Science and Data Science student with a strong interest in data analysis and reporting, including dashboards and visual storytelling. I also enjoy building clean, intuitive applications and websites with a focus on user experience (UX). My interests extend to data engineering, particularly SQL, database optimisation, and automated data pipelines. I enjoy turning messy datasets into structured, useful insights and tools.
 
 ### 📌 Featured Project  
-**📚 Personal Book Tracker**  
-📊 I’m currently building a Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts soon, to share insights with other users!
+**📚 Personal Book Tracker (in development)**  
+📊 A Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts to enable sharing of insights.
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
 ### 💡 Technical Skills & Tools  
