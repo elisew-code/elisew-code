@@ -1,8 +1,8 @@
 ## Elise Walsh
 
-🎓 Final-year Computer Science & Data Science student
-🔍 Interested in data analysis and reporting; application and website development with clean, intuitive UX; and data engineering (SQL, database optimisation, and pipelines)
-📚 I enjoy turning messy data into clean reports and interactive tools
+- 🎓 Final-year Computer Science & Data Science student
+- 🔍 Interested in data analysis and reporting; application and website development with clean, intuitive UX; and data engineering (SQL, database optimisation, and pipelines)
+- 📚 I enjoy turning messy data into clean reports and interactive tools
 
 ---
 
@@ -28,5 +28,5 @@
 
 ### 📫 How to reach me  
 - 📧 Email: elisemwalsh@me.com  
-- 💼 LinkedIn: [linkedin.com/in/elise-walsh](https://linkedin.com/in/elise-walsh)
-- 🌐 Website (*work in progress*): [Personal Website](https://elisemwalsh.com)
+- 💼 LinkedIn: [linkedin.com/in/elise-walsh](https://www.linkedin.com/in/elise-walsh-0984932a/)
+- 🌐 Website (*work in progress*): [Elise Walsh](https://elisemwalsh.com)
