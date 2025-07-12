@@ -1,6 +1,6 @@
 ## 🎓 Elise Walsh 
 
-I’m a final-year Computer Science and Data Science student with a strong interest in data analysis and reporting, including dashboards and visual storytelling. I also enjoy building clean, intuitive applications and websites with a focus on user experience (UX). My interests extend to data engineering, particularly SQL, database optimisation, and automated data pipelines. I enjoy turning messy datasets into structured, useful insights and tools.
+I’m a final-year Computer Science and Data Science student with a strong interest in data analysis and software development, including dashboards, visual storytelling, as well as intuitive applications and websites with a focus on user experience (UX). My interests extend to data engineering, particularly SQL, database optimisation, and automated data pipelines. I enjoy turning messy datasets into structured, useful insights and tools.
 
 ### 📌 Featured Project  
 **📚 Personal Book Tracker (in development)**  
