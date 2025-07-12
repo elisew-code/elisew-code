@@ -2,9 +2,9 @@
 
 I’m a final-year Computer Science and Data Science student with a strong interest in data analysis and software development, including dashboards, visual storytelling, as well as intuitive applications and websites with a focus on user experience (UX). My interests extend to data engineering, particularly SQL, database optimisation, and automated data pipelines. I enjoy turning messy datasets into useful insights and tools.
 
-### 📌 Featured Project  
+### 📌 Featured Project
 **📚 Personal Book Tracker (in development)**  
-📊 A Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts to enable sharing of insights.
+A Flask web app with an interactive dashboard that tracks and visualises my personal library, book budget, and reading habits. It uses an SQLite database backend, Python for server-side logic, and HTML/CSS templates for the user interface. I plan to add user accounts to enable sharing of insights.
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
 ### 💡 Technical Skills & Tools  
