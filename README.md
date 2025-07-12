@@ -1,4 +1,4 @@
-## Hi there, I'm Elise
+## Elise Walsh
 
 🎓 Final-year Computer Science & Data Science student
 🔍 Interested in data analysis and reporting; application and website development with clean, intuitive UX; and data engineering (SQL, database optimisation, and pipelines)
@@ -29,4 +29,4 @@
 ### 📫 How to reach me  
 - 📧 Email: elisemwalsh@me.com  
 - 💼 LinkedIn: [linkedin.com/in/elise-walsh](https://linkedin.com/in/elise-walsh)
-- 🌐 Website (*work in progress*): [elisemwalsh.com]
+- 🌐 Website (*work in progress*): [Personal Website](https://elisemwalsh.com)
