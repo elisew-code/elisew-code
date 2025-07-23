@@ -1,4 +1,4 @@
-## 🎓 Elise Walsh 
+## Elise Walsh 
 
 I’m a final-year Computer Science and Data Science student with a strong interest in data analysis and software development, including dashboards, visual storytelling, and intuitive applications and websites with a focus on user experience (UX). My interests extend to data engineering, particularly SQL, database optimisation, and automated data pipelines to support these tools.
 
@@ -9,7 +9,7 @@ A Flask web app with an interactive dashboard that tracks and visualises my pers
 
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
-**📚 Sydney Precision Data Science Centre 2025 Challenge** _(todo)_
+**🎓 Sydney Precision Data Science Centre 2025 Challenge** _(todo)_
 
 → [GitHub Repo](https://github.com/elisew-code/winter-data-analysis-challenge-2025)
 
