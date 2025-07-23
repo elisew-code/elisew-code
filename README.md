@@ -9,9 +9,7 @@ A Flask web app with an interactive dashboard that tracks and visualises my pers
 
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
-**📚 Sydney Precision Data Science Centre 2025 Challenge**
-
-_(todo)_
+**📚 Sydney Precision Data Science Centre 2025 Challenge** _(todo)_
 
 → [GitHub Repo](https://github.com/elisew-code/winter-data-analysis-challenge-2025)
 
