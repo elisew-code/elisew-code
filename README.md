@@ -9,6 +9,12 @@ A Flask web app with an interactive dashboard that tracks and visualises my pers
 
 → [GitHub Repo](https://github.com/elisew-code/book-tracker)
 
+**📚 Sydney Precision Data Science Centre 2025 Challenge**
+
+_(todo)_
+
+→ [GitHub Repo](https://github.com/elisew-code/winter-data-analysis-challenge-2025)
+
 ### 💡 Technical Skills & Tools  
 - **Languages**: Python, SQL, R, Java, C, HTML, Bash
 - **Skills:** Data import and cleaning, statistical testing, reporting and visualisation (Quarto, R Markdown), dashboard design (Shiny, Flask), machine learning, web scraping and APIs, geospatial processing, OOP
