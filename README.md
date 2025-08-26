@@ -7,7 +7,7 @@ I’m a final-year Computer Science and Data Science student with a strong inter
 
 {description}
 
-→ [GitHub Repo](https://github.com/elisew-code/book-tracker)
+→ [GitHub Repo](https://github.com/elisew-code/screen_weather_tracker)
 
 **🎓 Sydney Precision Data Science Centre 2025 Challenge** _(todo)_
 
